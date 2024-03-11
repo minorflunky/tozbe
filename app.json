@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "tozbe",
+    "slug": "tozbe",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "tozbe"
+}
