@@ -33,3 +33,9 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# resources
+/resources/images/*
+
+#editor
+.vscode
